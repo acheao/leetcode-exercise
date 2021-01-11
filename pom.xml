@@ -3,9 +3,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.acheao</groupId>
   <artifactId>leetcode-exericse</artifactId>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Acheaocat Maven Webapp</name>
+  <name>leetcode-exericse</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
