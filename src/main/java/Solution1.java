@@ -6,7 +6,7 @@ import java.util.Map;
  * 来源：力扣（LeetCode）
  * leetCode学习笔记 林超
  */
-class Solution {
+class Solution1 {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> hashtable = new HashMap<Integer, Integer>();
         for (int i = 0; i < nums.length; ++i) {
